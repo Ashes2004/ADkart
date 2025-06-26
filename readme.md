@@ -1,5 +1,5 @@
 # 🅰️ ADkart – My First WordPress E-commerce Site (PHP + FakeStore API)
-![ADkart Banner](screenshots/banner.png)
+![ADkart Banner](https://i.ibb.co/7xv0LQV9/Screenshot-318.png)
 Welcome to **ADkart**, my first self-made PHP project using **WordPress** and the **FakeStore API**. This project is built locally with **LocalWP** as a premium-style shopping demo. It includes product listing, a shopping cart system using `localStorage`, custom pages, and modern styling.
 ---
 ## 🚀 Features
@@ -12,10 +12,10 @@ Welcome to **ADkart**, my first self-made PHP project using **WordPress** and th
 - 💻 Fully built in PHP + JavaScript (no external plugins used)
 ---
 ## 📸 Screenshots
-> 📂 Place your screenshots in a `/screenshots` folder
-| Homepage with Search | Cart Page | Contact Page |
-|----------------------|-----------|--------------|
-| ![](screenshots/home.png) | ![](screenshots/cart.png) | ![](screenshots/contact.png) |
+
+| ![Home](https://i.ibb.co/gZWRLsp3/Screenshot-319.png) 
+![Cart](https://i.ibb.co/8LL3GgHd/Screenshot-320.png)
+![Contact Us](https://i.ibb.co/5xg48zDj/Screenshot-321.png)
 
 ---
 ## 🛠️ How I Built It
