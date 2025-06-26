@@ -1,0 +1,12 @@
+/*
+Theme Name: FakeStore Theme
+Author: Your Name
+Version: 1.0
+*/
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    background-color: aliceblue;
+}
