@@ -5,7 +5,7 @@ Template Name: Contact
 get_header();
 ?>
 
-<h2 style="text-align:center;">📞 Contact </h2>
+<h2 style="text-align:center;">📞 Contact Us </h2>
 <div id="contact-container" style="max-width: 800px; margin: auto; padding: 20px;">
     <form id="contact-form">
         <div style="margin-bottom: 15px;">
