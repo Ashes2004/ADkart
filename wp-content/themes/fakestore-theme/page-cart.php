@@ -33,7 +33,7 @@ function loadCart() {
       <tr>
         <td style="border: 1px solid #ccc; padding: 10px;"><img src="${item.image}" width="50"/></td>
         <td style="border: 1px solid #ccc; padding: 10px;">${item.title}</td>
-        <td style="border: 1px solid #ccc; padding: 10px;">₹${item.price.toFixed(2)}</td>
+        <td style="border: 1px solid #ccc; padding: 10px;">$${item.price.toFixed(2)}</td>
         <td style="border: 1px solid #ccc; padding: 10px;">
           <button onclick="removeFromCart(${index})" style="background-color: red; color: white; border: none; padding: 5px 10px; border-radius: 4px; cursor: pointer;">Delete</button>
         </td>
@@ -41,7 +41,7 @@ function loadCart() {
     `;
   });
 
-  html += `</table><h3 style="margin-top: 20px;">Total: ₹${total.toFixed(2)}</h3><button onclick="window.location.href='/'" style="background-color: #0073aa; color: white; border: none; padding: 10px 20px; border-radius: 4px; cursor: pointer; margin:10px">Continue Shopping</button>`;
+  html += `</table><h3 style="margin-top: 20px;">Total: $${total.toFixed(2)}</h3><button onclick="window.location.href='/'" style="background-color: #0073aa; color: white; border: none; padding: 10px 20px; border-radius: 4px; cursor: pointer; margin:10px">Continue Shopping</button>`;
   cartContainer.innerHTML = html;
 }
 

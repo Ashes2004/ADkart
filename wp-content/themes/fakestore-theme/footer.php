@@ -26,6 +26,8 @@
   <p style="margin-top: 10px; font-size: 14px;">© 2025 ADkart. All rights reserved.</p>
 </footer>
 
+
+
 <?php wp_footer(); ?>
 </body>
 </html>

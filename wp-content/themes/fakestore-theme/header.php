@@ -36,6 +36,7 @@
         font-weight: bold;
         letter-spacing: 1px;
         color: #00d8ff;
+        text-decoration: none;
       }
 
       nav a {
@@ -49,14 +50,24 @@
       nav a:hover {
         color: #00d8ff;
       }
-    </style>
+    
+
+
+
+
+
+
+ </style>
 </head>
 <body>
   <header>
-    <div class="logo">🅰️Dkart</div>
+    <a href="/" class="logo">🅰️Dkart</a>
     <nav>
       <a href="/">🏠 Home</a>
       <a href="/cart">🛒 Cart</a>
       <a href="/contact">📞 Contact</a>
     </nav>
-  </header>
+   
+
+</header>
+
