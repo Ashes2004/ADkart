@@ -57,5 +57,6 @@
     <nav>
       <a href="/">🏠 Home</a>
       <a href="/cart">🛒 Cart</a>
+      <a href="/contact">📞 Contact</a>
     </nav>
   </header>
