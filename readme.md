@@ -13,9 +13,39 @@ Welcome to **ADkart**, my first self-made PHP project using **WordPress** and th
 ---
 ## 📸 Screenshots
 
-| ![Home](https://i.ibb.co/gZWRLsp3/Screenshot-319.png) 
+### 🏠 Home Page – Product Listings
+![Home](https://i.ibb.co/gZWRLsp3/Screenshot-319.png)
+
+The homepage features a stylish, responsive layout with:
+- A premium header branded as **🅰️Dkart**
+- Live **search filter** to find products in real-time
+- Product cards showing images, titles, prices, and “Add to Cart” buttons
+- Data fetched from the **FakeStore API**
+- Clean, modern UI using custom CSS and vanilla JavaScript
+
+---
+
+### 🛒 Cart Page – View & Manage Cart
 ![Cart](https://i.ibb.co/8LL3GgHd/Screenshot-320.png)
+
+The cart page lets users:
+- See all products added to the cart from localStorage
+- View item image, title, and individual prices
+- See the **total amount** at the bottom
+- **Remove items** from the cart with a single click (Delete button)
+
+---
+
+### 📬 Contact Us Page – Custom Template
 ![Contact Us](https://i.ibb.co/5xg48zDj/Screenshot-321.png)
+
+A dedicated **Contact Us** page built using a custom WordPress template:
+- Includes a professional layout with branding
+- Can be extended to include forms (e.g., Name, Email, Message)
+- Easily created and assigned using WordPress Page Template feature
+
+---
+
 
 ---
 ## 🛠️ How I Built It
